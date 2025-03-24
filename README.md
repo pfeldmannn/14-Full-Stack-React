@@ -5,9 +5,9 @@ I updated a full-stack application that manages users' work tasks by adding a se
 
 ### Screenshots
 
-![Login Page](/assets/login.png)
-![KanBan Board](/assets/board.png)
-![Create Ticket Page](/assets/createTicket.png)
+![Login Page](assets/login.png)
+![KanBan Board](assets/board.png)
+![Create Ticket Page](assets/createticket.png)
 
 ### Credits
 - Tutoring Sessions for code review
